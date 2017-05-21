@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Security</string>
+    <string name="title_activity_pbkdf2">PBKDF2 </string>
+</resources>
